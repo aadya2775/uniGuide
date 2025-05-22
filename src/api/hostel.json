@@ -1,0 +1,163 @@
+[
+    {
+      "hostel_name": "Balaji Guest House - Home Stay",
+      "location": { "city": "Greater Noida", "area": "Sigma-01" },
+      "price_per_night": 1200,
+      "amenities": ["Free Breakfast", "WiFi"],
+      "source_link": "https://www.dorms.com/hostels/India/Greater%2BNoida",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496863035.jpg?k=54b1f9cb1acd2f327591e6b959c21315b6c434446b2a9dca8c7fd87925e48860&o=&hp=1"
+    },
+    {
+      "hostel_name": "Bhambri Expo House",
+      "location": { "city": "Greater Noida", "area": "Alpha 1 Block A Road" },
+      "price_per_night": 1500,
+      "amenities": ["Free Breakfast", "WiFi"],
+      "source_link": "https://www.dorms.com/hostels/India/Greater%2BNoida",
+      "image": "https://r1imghtlak.ibcdn.com/6ac71dad-8fd1-4171-bc37-a84a75bc7a9b.JPG?&downsize=520:350&crop=520:350;81,0&output-format=jpg"
+    },
+    {
+      "hostel_name": "House Of Comfort Greater Noida",
+      "location": { "city": "Greater Noida", "area": "Beta-1" },
+      "price_per_night": 2500,
+      "amenities": ["Free Breakfast", "WiFi"],
+      "source_link": "https://www.dorms.com/hostels/India/Greater%2BNoida",
+      "image": "https://r1imghtlak.mmtcdn.com/083e3358caf111e8963a02163bffcb52.jpg"
+    },
+    {
+      "hostel_name": "Jaypee Greens Golf and Spa Resort",
+      "location": { "city": "Greater Noida", "area": "Surajpur Kasna Road" },
+      "price_per_night": 8000,
+      "amenities": ["Free Breakfast", "WiFi"],
+      "source_link": "https://www.dorms.com/hostels/India/Greater%2BNoida",
+      "image": "https://pix10.agoda.net/hotelImages/551/551942/551942_16101418020047770614.jpg?ca=6&ce=1&s=414x232&ar=16x9"
+    },
+    {
+      "hostel_name": "PG for Boys Alpha 2",
+      "location": { "city": "Greater Noida", "area": "Alpha 2" },
+      "price_per_night": 700,
+      "amenities": ["WiFi", "Laundry", "Food"],
+      "source_link": "https://www.magicbricks.com/hostels-in-greater-noida-pppfr",
+      "image": "https://pgonrent.com/assets/pg-in-noida/Pg-in-Noida-Sector-2.jpg"
+    },
+    {
+      "hostel_name": "PG for Girls Knowledge Park",
+      "location": { "city": "Greater Noida", "area": "Knowledge Park 3" },
+      "price_per_night": 800,
+      "amenities": ["WiFi", "Food", "Security"],
+      "source_link": "https://www.magicbricks.com/hostels-in-greater-noida-pppfr",
+      "image": "https://ar-residency.in/wp-content/uploads/2023/08/Add-a-heading-4-2048x856.jpg"
+    },
+    {
+      "hostel_name": "Zolo Nord Hostel",
+      "location": { "city": "Noida", "area": "Sector 45" },
+      "price_per_night": 5000,
+      "amenities": ["AC", "WiFi", "Beds"],
+      "source_link": "https://www.magicbricks.com/hostels-in-noida-pppfr",
+      "image": "https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center/cover_photo/5cb4099066a2f614185cbb41/jpeg_optimizer_23__9_.jpg"
+    },
+    {
+      "hostel_name": "Zolo Queens",
+      "location": { "city": "Noida", "area": "Sector 62" },
+      "price_per_night": 4500,
+      "amenities": ["AC", "WiFi", "Beds"],
+      "source_link": "https://www.magicbricks.com/hostels-in-noida-pppfr",
+      "image": "https://rook.gumlet.io/uploads/center/cover_photo/5b48428e66a2f6251ca7e756/PG_in_HSR_Layout.jpeg"
+    },
+    {
+      "hostel_name": "Noida Guest House",
+      "location": { "city": "Noida", "area": "Sector 27" },
+      "price_per_night": 3000,
+      "amenities": ["AC", "WiFi", "Beds"],
+      "source_link": "https://www.magicbricks.com/hostels-in-noida-pppfr",
+      "image": "https://content.jdmagicbox.com/comp/noida/p3/011pxx11.xx11.170727100822.g2p3/catalogue/winsome-guest-house-noida-sector-51-noida-guest-house-e35w6g124m-250.jpg"
+    },
+    {
+      "hostel_name": "The Aviraj Inn",
+      "location": { "city": "Noida", "area": "Sector 52" },
+      "price_per_night": 3500,
+      "amenities": ["AC", "WiFi", "Beds"],
+      "source_link": "https://www.magicbricks.com/hostels-in-noida-pppfr",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380274132.jpg?k=2c8ead20a6a454225a453c947e38dee757bbdb8f366cfd29fea6133883147cd8&o=&hp=1"
+    },
+    {
+      "hostel_name": "Sanskriti Avass Boys Hostel",
+      "location": { "city": "Noida", "area": "Sector 62" },
+      "price_per_night": 4000,
+      "amenities": ["AC", "WiFi", "Beds"],
+      "source_link": "https://www.magicbricks.com/hostels-in-noida-pppfr",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEfzHfSw7i33z3Nrqtase8Bo31vNTF5Ow-ew&s"
+    },
+    {
+      "hostel_name": "Boys PG Sector 63",
+      "location": { "city": "Noida", "area": "Sector 63" },
+      "price_per_night": 1000,
+      "amenities": ["Food", "Laundry", "WiFi"],
+      "source_link": "https://www.magicbricks.com/hostels-in-noida-pppfr",
+      "image": "https://images.jdmagicbox.com/v2/comp/delhi/q9/011pxx11.xx11.240101222659.h5q9/catalogue/glorious-safe-home-pg-noida-sector-63-noida-paying-guest-accommodations-9pa022z92k.jpg"
+    },
+    {
+      "hostel_name": "Zostel Delhi",
+      "location": { "city": "Delhi", "area": "Paharganj" },
+      "price_per_night": 600,
+      "amenities": ["Free WiFi", "Common Lounge", "Laundry Facilities"],
+      "source_link": "https://www.tripadvisor.in",
+      "image": "https://images.jdmagicbox.com/v2/comp/delhi/q9/011pxx11.xx11.240101222659.h5q9/catalogue/glorious-safe-home-pg-noida-sector-63-noida-paying-guest-accommodations-9pa022z92k.jpg"
+    },
+    {
+      "hostel_name": "goSTOPS Delhi",
+      "location": { "city": "Delhi", "area": "Chandni Chowk" },
+      "price_per_night": 800,
+      "amenities": ["Free WiFi", "Common Lounge", "Laundry Facilities"],
+      "source_link": "https://www.tripadvisor.in",
+      "image": "https://stage.gostops.com/media/images/635_20190430082810_0974242001556612890_968_2.jpg"
+    },
+    {
+      "hostel_name": "The Hosteller Delhi",
+      "location": { "city": "Delhi", "area": "Saket" },
+      "price_per_night": 900,
+      "amenities": ["Free WiFi", "Common Lounge", "Laundry Facilities"],
+      "source_link": "https://www.tripadvisor.in",
+      "image": "https://pix10.agoda.net/hotelImages/17030474/-1/56ddff690c07790d253a9a513752e43b.jpg?ce=0&s=414x232"
+    },
+    {
+      "hostel_name": "Madpackers Delhi",
+      "location": { "city": "Delhi", "area": "Hauz Khas" },
+      "price_per_night": 1000,
+      "amenities": ["Free WiFi", "Common Lounge", "Laundry Facilities"],
+      "source_link": "https://www.tripadvisor.in",
+      "image": "https://pix10.agoda.net/property/26250541/0/ba20d72fb4fc7ff0a8aac490942de1f3.jpg?ca=27&ce=0&s=414x232&ar=16x9"
+    },
+    {
+      "hostel_name": "Jugaad Hostels",
+      "location": { "city": "Delhi", "area": "RK Puram" },
+      "price_per_night": 850,
+      "amenities": ["Free WiFi", "Common Lounge", "Laundry Facilities"],
+      "source_link": "https://www.tripadvisor.in",
+      "image": "https://images.trvl-media.com/lodging/33000000/32530000/32525900/32525858/bfc1fed9.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+    },
+    {
+      "hostel_name": "Backpackers Heaven",
+      "location": { "city": "Delhi", "area": "Paharganj" },
+      "price_per_night": 700,
+      "amenities": ["WiFi", "Breakfast", "Laundry"],
+      "source_link": "https://www.booking.com",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146468200.jpg?k=74a69986bc87195471f15570878c70d53b2046994635efd4ea35d21020ce6366&o=&hp=1"
+    },
+    {
+      "hostel_name": "Hostel New Hindustan",
+      "location": { "city": "Delhi", "area": "Paharganj" },
+      "price_per_night": 750,
+      "amenities": ["WiFi", "AC", "Breakfast"],
+      "source_link": "https://www.booking.com",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474518882.jpg?k=75b34eb6e80b6132524ca052ac6a4d5df56d8ac43218aaf1ad4cfc3a515c2299&o=&hp=1"
+    },
+    {
+      "hostel_name": "Bloomrooms @ New Delhi Railway Station",
+      "location": { "city": "Delhi", "area": "Paharganj" },
+      "price_per_night": 1100,
+      "amenities": ["WiFi", "AC", "Luggage Storage"],
+      "source_link": "https://www.booking.com",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/249117655.jpg?k=4b1bde4cd8ce9eb2c54ea41f93bfb85b11e43fd48538c30d3d5724a890641ee8&o=&hp=1"
+    }
+  ]
+  

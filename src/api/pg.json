@@ -1,0 +1,176 @@
+[
+    {
+      "pg_name": "New Royals PG",
+      "location": {
+        "area": "Techzone 4 Amrapali Leisure Valley",
+        "city": "Greater Noida"
+      },
+      "rent_per_month": {
+        "single_room_with_ac": 14999,
+        "twin_sharing_with_ac": 11999,
+        "triple_sharing_with_ac": 8999
+      },
+      "amenities": ["Food Included", "WiFi", "AC", "CCTV", "Housekeeping"],
+      "contact_info": "Contact via MagicBricks",
+      "source_link": "https://www.magicbricks.com/pg-in-greater-noida-pppfr",
+      "image": "royalpg.jpg"
+    },
+    {
+      "pg_name": "Pakhi's Nest Luxury Accommodation",
+      "location": {
+        "area": "Knowledge Park 3",
+        "city": "Greater Noida"
+      },
+      "rent_per_month": {
+        "single_room_with_ac": 24999,
+        "twin_sharing_with_ac": 15999,
+        "triple_sharing_with_ac": 13999,
+        "four_sharing_with_ac": 11999
+      },
+      "amenities": ["Food Included", "WiFi", "AC", "CCTV", "Housekeeping"],
+      "contact_info": "Contact via MagicBricks",
+      "source_link": "https://www.magicbricks.com/pg-in-greater-noida-pppfr",
+      "image": "pakhi.jpg"
+    },
+    {
+      "pg_name": "Takshashila PG",
+      "location": {
+        "area": "Block A Beta 1",
+        "city": "Greater Noida"
+      },
+      "rent_per_month": {
+        "single_room_with_ac": 22000,
+        "twin_sharing_with_ac": 14000,
+        "triple_sharing": 10000
+      },
+      "amenities": ["Food Included", "WiFi", "AC", "CCTV", "Housekeeping"],
+      "contact_info": "Contact via MagicBricks",
+      "source_link": "https://www.magicbricks.com/pg-in-greater-noida-pppfr",
+      "image": "Takshashila.jpeg"
+    },
+    {
+      "pg_name": "Apna Niwas",
+      "location": {
+        "area": "Khora Colony, Sector 62A",
+        "city": "Noida"
+      },
+      "rent_per_month": {
+        "triple_sharing": 9499,
+        "double_sharing": 9499,
+        "private_room": 21999
+      },
+      "amenities": ["AC", "Washing Machine", "Fridge", "Water Purifier"],
+      "contact_info": "Contact via Housing.com",
+      "source_link": "https://housing.com/paying-guests/pg-in-noida-P2fqf0dypkiyhifgy",
+      "image": "apna.jpg"
+    },
+    {
+      "pg_name": "Zolo Sparsh",
+      "location": {
+        "area": "Sector 66",
+        "city": "Noida"
+      },
+      "rent_per_month": {
+        "double_sharing": 4974,
+        "private_room": 9948
+      },
+      "amenities": ["AC", "Washing Machine", "Fridge", "Water Purifier"],
+      "contact_info": "Contact via Housing.com",
+      "source_link": "https://housing.com/paying-guests/pg-in-noida-P2fqf0dypkiyhifgy",
+      "image": "zolo.jpg"
+    },
+    {
+      "pg_name": "Zolo Famous",
+      "location": {
+        "area": "Sector 66",
+        "city": "Noida"
+      },
+      "rent_per_month": {
+        "double_sharing": 5698,
+        "private_room": 11395
+      },
+      "amenities": ["AC", "Washing Machine", "Fridge", "Water Purifier"],
+      "contact_info": "Contact via Housing.com",
+      "source_link": "https://housing.com/paying-guests/pg-in-noida-P2fqf0dypkiyhifgy",
+      "image": "zolofamous.jpg"
+    },
+    {
+      "pg_name": "Devendra Nest TF GN",
+      "location": {
+        "area": "Beta II",
+        "city": "Greater Noida"
+      },
+      "rent_per_month": {
+        "double_sharing": 5000,
+        "private_room": 9500
+      },
+      "amenities": ["AC", "Washing Machine", "Fridge", "Water Purifier"],
+      "contact_info": "Contact via Housing.com",
+      "source_link": "https://housing.com/paying-guests/pg-in-greater-noida-P6fh9cuf4xravz1ts",
+      "image": "royalpg.jpg"
+    },
+    {
+      "pg_name": "Divyam PG",
+      "location": {
+        "area": "Gamma I",
+        "city": "Greater Noida"
+      },
+      "rent_per_month": {
+        "multi_sharing": 8000,
+        "triple_sharing": 8000,
+        "double_sharing": 12000,
+        "private_room": 20000
+      },
+      "amenities": ["AC", "Washing Machine", "Fridge", "Water Purifier"],
+      "contact_info": "Contact via Housing.com",
+      "source_link": "https://housing.com/paying-guests/pg-in-greater-noida-P6fh9cuf4xravz1ts",
+      "image": "divyam.jpg"
+    },
+    {
+      "pg_name": "Five Star PG",
+      "location": {
+        "area": "Gamma I",
+        "city": "Greater Noida"
+      },
+      "rent_per_month": {
+        "triple_sharing": 9500
+      },
+      "amenities": ["AC", "Washing Machine", "Fridge", "Water Purifier"],
+      "contact_info": "Contact via Housing.com",
+      "source_link": "https://housing.com/paying-guests/pg-in-greater-noida-P6fh9cuf4xravz1ts",
+      "image": "fivestar.jpg"
+    },
+    {
+      "pg_name": "Alice Girls PG",
+      "location": {
+        "area": "Alpha II",
+        "city": "Greater Noida"
+      },
+      "rent_per_month": {
+        "double_sharing": 9000,
+        "private_room": 20000
+      },
+      "amenities": ["AC", "Washing Machine", "Fridge", "Water Purifier"],
+      "contact_info": "Contact via Housing.com",
+      "source_link": "https://housing.com/paying-guests/pg-in-greater-noida-P6fh9cuf4xravz1ts",
+      "image": "alice.jpeg"
+    },
+    {
+      "pg_name": "Regalio Living",
+      "location": {
+        "area": "Delta II",
+        "city": "Greater Noida"
+      },
+      "rent_per_month": {
+        "multi_sharing": 7000,
+        "triple_sharing": 7000,
+        "double_sharing": 10000,
+        "private_room": 18000
+      },
+      "amenities": ["AC", "Washing Machine", "Fridge", "Water Purifier"],
+      "contact_info": "Contact via Housing.com",
+      "source_link": "https://housing.com/paying-guests/pg-in-greater-noida-P6fh9cuf4xravz1ts",
+      "image": "apna.jpg"
+    }
+]
+  

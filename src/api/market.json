@@ -1,0 +1,133 @@
+[
+    {
+      "market_name": "Atta Market (Sector 18 Market)",
+      "location": {
+        "area": "Sector 18",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "specialties": ["Clothing", "Footwear", "Accessories", "Electronics"],
+      "operating_hours": "10:00 AM to 10:00 PM",
+      "description": "A bustling market known for affordable fashion, electronics, and a variety of street food options.",
+      "source": "https://timesofindia.indiatimes.com/travel/things-to-do/famous-local-markets-in-noida-for-ardent-shoppers/articleshow/104430052.cms",
+      "image": "https://ourcitymarkets.com/wp-content/uploads/2022/08/GLIMPSE5-1-scaled.jpg"
+    },
+    {
+      "market_name": "Brahmaputra Market",
+      "location": {
+        "area": "Sector 29",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "specialties": ["Street Food", "Groceries", "Household Items"],
+      "operating_hours": "11:00 AM to 11:00 PM",
+      "description": "Famous for its diverse street food stalls offering local and international cuisines, along with daily essentials.",
+      "source": "https://www.thenoidahotel.com/post/top-five-local-markets-in-noida",
+      "image": "https://static.india.com/wp-content/uploads/2022/11/Brahmaputra.jpg"
+    },
+    {
+      "market_name": "Indira Market",
+      "location": {
+        "area": "Sector 27",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "specialties": ["Fresh Produce", "Clothing", "Footwear"],
+      "operating_hours": "10:00 AM to 9:00 PM",
+      "description": "A local market offering fresh fruits and vegetables, along with affordable clothing and footwear.",
+      "source": "https://www.famousindia.in/fiblog/list-of-famous-markets-for-shopping-in-noida/",
+      "image": "https://static.toiimg.com/photo/48014646.cms"
+    },
+    {
+      "market_name": "Jagat Farm Market",
+      "location": {
+        "area": "Gamma I",
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh"
+      },
+      "specialties": ["Clothing", "Electronics", "Groceries"],
+      "operating_hours": "10:00 AM to 9:00 PM",
+      "description": "One of the oldest markets in Greater Noida, offering a wide range of products from clothing to electronics.",
+      "source": "https://www.famousindia.in/fiblog/list-of-famous-markets-for-shopping-in-noida/",
+      "image": "https://content.jdmagicbox.com/v2/comp/noida/w8/011pxx11.xx11.160212171102.j2w8/catalogue/buggon-hyper-market-greater-noida-noida-supermarkets-3ytmsln.jpg"
+    },
+    {
+      "market_name": "Chandni Chowk",
+      "location": {
+        "area": "Old Delhi",
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      "specialties": ["Textiles", "Jewelry", "Street Food"],
+      "operating_hours": "9:30 AM to 8:00 PM (Closed on Sundays)",
+      "description": "One of Delhi's oldest and busiest markets, known for its wholesale textiles, traditional jewelry, and delectable street food.",
+      "source": "https://www.thetimes.co.uk/article/delhi-r6ls52bws",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/chandni-chowk-delhi-2-attr-hero?qlt=82&ts=1727352381326"
+    },
+    {
+      "market_name": "Dilli Haat",
+      "location": {
+        "area": "INA",
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      "specialties": ["Handicrafts", "Handlooms", "Regional Cuisines"],
+      "operating_hours": "10:30 AM to 10:00 PM",
+      "description": "An open-air market showcasing traditional crafts and cuisines from various states of India.",
+      "source": "https://www.thetimes.co.uk/article/delhi-r6ls52bws",
+      "image": "https://res.cloudinary.com/purnesh/image/upload/w_1080,f_auto/untitled-11635843708852.jpg"
+    },
+    {
+      "market_name": "Sarojini Nagar Market",
+      "location": {
+        "area": "Sarojini Nagar",
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      "specialties": ["Fashion Apparel", "Accessories", "Home Furnishings"],
+      "operating_hours": "10:00 AM to 9:00 PM (Closed on Mondays)",
+      "description": "Popular among locals and tourists for trendy clothing and accessories at bargain prices.",
+      "source": "https://www.thetimes.co.uk/article/delhi-r6ls52bws",
+      "image": "https://tripplanindia.com/wp-content/uploads/2024/04/sarojini-nagar-market-delhi.webp"
+    },
+    {
+      "market_name": "Lajpat Nagar Central Market",
+      "location": {
+        "area": "Lajpat Nagar",
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      "specialties": ["Ethnic Wear", "Footwear", "Home Decor"],
+      "operating_hours": "10:00 AM to 9:00 PM (Closed on Mondays)",
+      "description": "A vibrant market offering a wide range of traditional Indian clothing, accessories, and home decor items.",
+      "source": "https://www.thetimes.co.uk/article/delhi-r6ls52bws",
+      "image": "https://im.whatshot.in/img/2022/Sep/og-3-1663073238.jpg"
+    },
+    {
+      "market_name": "Khan Market",
+      "location": {
+        "area": "Khan Market",
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      "specialties": ["Books", "Boutiques", "Eateries"],
+      "operating_hours": "10:00 AM to 11:00 PM (Closed on Sundays)",
+      "description": "An upscale market known for its bookstores, high-end boutiques, and a variety of cafes and restaurants.",
+      "source": "https://www.thetimes.co.uk/article/delhi-r6ls52bws",
+      "image": "https://www.ncrpages.in/images/places/khan-market-delhi.jpg"
+    },
+    {
+      "market_name": "Karol Bagh Market",
+      "location": {
+        "area": "Karol Bagh",
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      "specialties": ["Apparel", "Electronics", "Jewelry"],
+      "operating_hours": "10:00 AM to 8:00 PM (Closed on Mondays)",
+      "description": "A diverse market offering a mix of traditional and modern goods, including clothing, electronics, and jewelry.",
+      "source": "https://www.thetimes.co.uk/article/delhi-r6ls52bws",
+      "image": "https://delhitourism.travel/images/places-to-visit/headers/karol-bagh-market-delhi-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+    }
+  ]
+  

@@ -1,0 +1,62 @@
+{
+    "places": {
+      "Greater Noida": {
+        "famous_foods": [
+          "Chole Bhature",
+          "Paneer Tikka",
+          "Momos",
+          "Aloo Tikki",
+          "Kulfi Falooda",
+          "Biryani"
+        ],
+        "popular_restaurants": [
+          "Biryani By Kilo",
+          "Pind Balluchi",
+          "Yellow Chilli",
+          "Bikanervala",
+          "Haldiram's"
+        ]
+      },
+      "Noida": {
+        "famous_foods": [
+          "Butter Chicken",
+          "Kebabs",
+          "Chole Bhature",
+          "Dosa",
+          "Gol Gappa (Pani Puri)",
+          "Shawarma"
+        ],
+        "popular_restaurants": [
+          "Desi Vibes",
+          "Barbeque Nation",
+          "Karim’s",
+          "Punjabi By Nature",
+          "Biryani Blues"
+        ]
+      },
+      "Delhi": {
+        "famous_foods": [
+          "Chole Bhature",
+          "Paratha",
+          "Butter Chicken",
+          "Kebabs",
+          "Nihari",
+          "Dahi Bhalla",
+          "Gol Gappa",
+          "Aloo Chaat",
+          "Kulfi",
+          "Rolls"
+        ],
+        "popular_restaurants": [
+          "Karim’s",
+          "Paranthe Wali Gali",
+          "Kuremal Mohan Lal Kulfi Wale",
+          "Khan Chacha",
+          "Sita Ram Diwan Chand",
+          "Gali Kababian Jama Masjid",
+          "Haldiram's"
+        ]
+      }
+    }
+  }
+  

@@ -1,0 +1,181 @@
+[
+    {
+      "hotel_name": "Vivanta Dwarka",
+      "location": { "area": "Dwarka", "city": "Delhi" },
+      "rent_per_night": "₹8,000",
+      "amenities": ["Spa", "Pool", "Gym", "Free Wi-Fi", "Multiple dining options"],
+      "contact_info": { "phone": "+91-11-6600-3000", "website": "https://www.vivantahotels.com/en-in/vivanta-new-delhi-dwarka/" },
+      "image": "https://www.getyourvenue.com/uploads/venue-images/660/venueimage2.jpg"
+    },
+    {
+      "hotel_name": "Crowne Plaza Greater Noida",
+      "location": { "area": "Surajpur Chowk", "city": "Greater Noida" },
+      "rent_per_night": "₹8,769",
+      "amenities": ["Outdoor Pool", "Gym", "Spa", "Free Wi-Fi", "On-site dining"],
+      "contact_info": { "phone": "+91-120-673-5000", "website": "https://www.ihg.com/crowneplaza/hotels/us/en/greater-noida/delgn/hoteldetail" },
+      "image": "/Hotel/crown.jpg"
+    },
+    {
+      "hotel_name": "The Grand Oasis Hotel",
+      "location": { "area": "Sector 1", "city": "Greater Noida" },
+      "rent_per_night": "₹7,500",
+      "amenities": ["Elegant accommodations", "Gourmet dining", "Spa", "Event spaces", "City views"],
+      "contact_info": { "phone": "+91-120-123-4567", "website": "https://thegrandoasis.in/" },
+      "image": "/Hotel/grand.jpg"
+    },
+    {
+      "hotel_name": "Ginger Greater Noida, Pari Chowk",
+      "location": { "area": "Pari Chowk", "city": "Greater Noida" },
+      "rent_per_night": "₹3,500",
+      "amenities": ["Free Wi-Fi", "24-hour room service", "Fitness center", "On-site restaurant"],
+      "contact_info": { "phone": "+91-966-779-9144", "website": "https://www.gingerhotels.com/ginger-greater-noida-pari-chowk" },
+      "image": "/Hotel/ginger.jpg"
+    },
+    {
+      "hotel_name": "Jaypee Greens Golf and Spa Resort",
+      "location": { "area": "Greater Noida", "city": "Greater Noida" },
+      "rent_per_night": "₹12,000",
+      "amenities": ["Golf course", "Spa", "Fitness center", "Multiple dining options", "Swimming pool"],
+      "contact_info": { "phone": "+91-120-674-3000", "website": "https://www.jaypeehotels.com/hotel/jaypee-greens-golf-spa-resort-greater-noida" },
+      "image": "/Hotel/jaypee.jpg"
+    },
+    {
+      "hotel_name": "Savoy Suites Greater Noida",
+      "location": { "area": "Ansal Plaza", "city": "Greater Noida" },
+      "rent_per_night": "₹11,331",
+      "amenities": ["Indoor swimming pool", "Fitness center", "Free Wi-Fi", "On-site dining"],
+      "contact_info": { "phone": "+91-120-123-4568", "website": "https://www.agoda.com/en-in/savoy-suites-greater-noida/hotel/new-delhi-and-ncr-in.html" },
+      "image": "/Hotel/savoy.jpg"
+    },
+    {
+      "hotel_name": "Atithi House",
+      "location": { "area": "Greater Noida", "city": "Greater Noida" },
+      "rent_per_night": "₹3,200",
+      "amenities": ["Airport transfer", "Pet-friendly", "Free Wi-Fi", "Fitness center", "24-hour front desk"],
+      "contact_info": { "phone": "+91-120-123-4569", "website": "https://www.agoda.com/en-in/atithi-house/hotel/new-delhi-and-ncr-in.html" },
+      "image": "/Hotel/atithi.avif"
+    },
+    {
+      "hotel_name": "The Dwelling Inn",
+      "location": { "area": "Knowledge Park 3", "city": "Greater Noida" },
+      "rent_per_night": "₹4,000",
+      "amenities": ["Restaurant", "Butler services", "24-hour room service", "Free Wi-Fi"],
+      "contact_info": { "phone": "+91-120-123-4570", "website": "https://www.makemytrip.com/hotels/the_dwelling_inn-details-greater_noida.html" },
+      "image": "/Hotel/dwelling.jpg"
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel Greater Noida",
+      "location": { "area": "Sector 18", "city": "Greater Noida" },
+      "rent_per_night": "₹9,000",
+      "amenities": ["Free Wi-Fi", "Swimming pool", "Spa", "Fitness center", "On-site dining"],
+      "contact_info": { "phone": "+91-120-451-7777", "website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-greater-noida" },
+      "image": "/Hotel/radisson.jpg"
+    },
+    {
+      "hotel_name": "The Leela Ambience Convention Hotel",
+      "location": { "area": "Shahdara", "city": "Delhi" },
+      "rent_per_night": "₹10,000",
+      "amenities": ["Spa", "Swimming pool", "Fitness center", "Multiple dining options", "Free Wi-Fi"],
+      "contact_info": { "phone": "+91-11-7172-1234", "website": "https://www.theleela.com/the-leela-ambience-convention-hotel-delhi/" },
+      "image": "https://content.skyscnr.com/available/1301408043/1301408043_WxH.jpg"
+    },
+    {
+      "hotel_name": "The Lodhi",
+      "location": { "area": "Lodhi Road", "city": "Delhi" },
+      "rent_per_night": "₹15,000",
+      "amenities": ["Private plunge pools", "Spa", "Fitness center", "Multiple dining options", "Free Wi-Fi"],
+      "contact_info": { "phone": "+91-11-4363-3333", "website": "https://www.thelodhi.com/" },
+      "image": "/Hotel/lodhi.jpg"
+    },
+    {
+      "hotel_name": "The Oberoi",
+      "location": { "area": "Dr. Zakir Hussain Marg", "city": "Delhi" },
+      "rent_per_night": "₹18,000",
+      "amenities": ["Spa", "Swimming pool", "Fitness center", "Multiple dining options", "Free Wi-Fi"],
+      "contact_info": { "phone": "+91-11-2436-3030", "website": "https://www.oberoihotels.com/hotels-in-delhi/" },
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/44522456.jpg?k=9947bae2627f2fc1ec561c4284d877d0cddcad32a7e4b3716a84a115b29ee8ff&o=&hp=1"
+    },
+    {
+      "hotel_name": "The Grand Venice Hotel",
+      "location": { "area": "Pari Chowk", "city": "Greater Noida" },
+      "rent_per_night": "₹6,500",
+      "amenities": ["Free Wi-Fi", "Swimming pool", "Spa", "Fitness center", "On-site dining"],
+      "contact_info": { "phone": "+91-120-123-4580", "website": "https://www.grandvenicehotel.com/" },
+      "image": "/Hotel/grandvenice.jpg"
+    },
+    {
+      "hotel_name": "Hotel Caspia Pro",
+      "location": { "area": "Sector 135", "city": "Noida" },
+      "rent_per_night": "₹4,500",
+      "amenities": ["Free Wi-Fi", "Fitness center", "On-site dining", "Business center"],
+      "contact_info": { "phone": "+91-120-123-4581", "website": "https://www.hotelcaspiapro.com/" },
+      "image": "/Hotel/caspia.jpg"
+    },
+    {
+      "hotel_name": "The Suryaa New Delhi",
+      "location": { "area": "New Friends Colony", "city": "Delhi" },
+      "rent_per_night": "₹7,500",
+      "amenities": ["Free Wi-Fi", "Swimming pool", "Spa", "Fitness center", "Multiple dining options"],
+      "contact_info": { "phone": "+91-11-1234-5678", "website": "https://www.thesuryaa.com/" },
+      "image": "/Hotel/suryaa.avif"
+    },
+    {
+      "hotel_name": "Hotel Noida International",
+      "location": { "area": "Sector 11", "city": "Noida" },
+      "rent_per_night": "₹3,000",
+      "amenities": ["Free Wi-Fi", "On-site dining", "Conference facilities", "Room service"],
+      "contact_info": { "phone": "+91-120-123-4582", "website": "https://www.hotelnoidainternational.com/" },
+      "image": "https://r1imghtlak.mmtcdn.com/1863e9c02bb411ee85fb0a58a9feac02.png"
+    },
+    {
+      "hotel_name": "The Imperial New Delhi",
+      "location": { "area": "Janpath", "city": "Delhi" },
+      "rent_per_night": "₹15,000",
+      "amenities": ["Free Wi-Fi", "Swimming pool", "Spa", "Fitness center", "Multiple dining options"],
+      "contact_info": { "phone": "+91-11-1234-5679", "website": "https://www.theimperialindia.com/" },
+      "image": "https://static-new.lhw.com/HotelImages/Final/LW2879/lw2879_177075175_790x490.jpg"
+    },
+    {
+      "hotel_name": "Hotel Formule1",
+      "location": { "area": "Knowledge Park III", "city": "Greater Noida" },
+      "rent_per_night": "₹3,500",
+      "amenities": ["Free Wi-Fi", "On-site dining", "Business center", "24-hour front desk"],
+      "contact_info": { "phone": "+91-120-123-4583", "website": "https://www.formule1.com/" },
+      "image": "/Hotel/formule.jpg"
+    },
+    {
+      "hotel_name": "Radisson Noida",
+      "location": { "area": "Sector 55", "city": "Noida" },
+      "rent_per_night": "₹8,000",
+      "amenities": ["Free Wi-Fi", "Swimming pool", "Spa", "Fitness center", "Multiple dining options"],
+      "contact_info": { "phone": "+91-120-123-4584", "website": "https://www.radissonhotels.com/en-us/hotels/radisson-noida" },
+      "image": "/Hotel/rad.jpg"
+    },
+    {
+      "hotel_name": "The Ashok",
+      "location": { "area": "Chanakyapuri", "city": "Delhi" },
+      "rent_per_night": "₹9,000",
+      "amenities": ["Free Wi-Fi", "Swimming pool", "Spa", "Fitness center", "Multiple dining options"],
+      "contact_info": { "phone": "+91-11-1234-5680", "website": "https://www.theashok.com/" },
+      "image": "/Hotel/ashok.jpg"
+    },
+    {
+      "hotel_name": "Hotel Mosaic",
+      "location": { "area": "Sector 18", "city": "Noida" },
+      "rent_per_night": "₹5,500",
+      "amenities": ["Free Wi-Fi", "Swimming pool", "Fitness center", "On-site dining"],
+      "contact_info": { "phone": "+91-120-123-4585", "website": "https://www.hotelmosaicnoida.com/" },
+      "image": "/Hotel/mosaic.jpg"
+    },
+    {
+      "hotel_name": "The Park New Delhi",
+      "location": { "area": "Connaught Place", "city": "Delhi" },
+      "rent_per_night": "₹10,000",
+      "amenities": ["Free Wi-Fi", "Swimming pool", "Spa", "Fitness center", "Multiple dining options"],
+      "contact_info": { "phone": "+91-11-1234-5681", "website": "https://www.theparkhotels.com/new-delhi.html" },
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250798430.jpg?k=77fb4113ec640c4b9df41857ff979a4455ea2ed72f415a27271db783ffd0ec1d&o=&hp=1"
+    }
+  ]
+  
+   
+  

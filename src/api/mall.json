@@ -1,0 +1,172 @@
+[
+    {
+      "mall_name": "DLF Mall of India",
+      "location": {
+        "area": "Sector 18",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 330,
+      "total_retail_floor_area": "2,000,000 sq. ft.",
+      "number_of_floors": 7,
+      "description": "One of India's largest malls, offering a vast array of international and domestic brands, a diverse food court, and multiple entertainment zones.",
+      "source": "https://www.dlfmallofindia.com/",
+      "image_url": "/Mall/dlf.jpg"
+    },
+    {
+      "mall_name": "The Great India Place (GIP)",
+      "location": {
+        "area": "Sector 38A",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 240,
+      "total_retail_floor_area": "1,500,000 sq. ft.",
+      "number_of_floors": 6,
+      "description": "A popular destination featuring a mix of retail stores, entertainment zones, and dining options, adjacent to an amusement park.",
+      "source": "https://www.thegreatindiaplace.in/",
+      "image_url": "/Mall/GIP.jpg"
+    },
+    {
+      "mall_name": "Gardens Galleria Mall",
+      "location": {
+        "area": "Sector 38",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 150,
+      "total_retail_floor_area": "500,000 sq. ft.",
+      "number_of_floors": 5,
+      "description": "Known for its vibrant atmosphere, this mall offers a variety of retail outlets, diverse dining options, and lively nightlife.",
+      "source": "https://www.gardensgalleria.in/",
+      "image_url": "/Mall/gardens.webp"
+    },
+    {
+      "mall_name": "Logix City Center Mall",
+      "location": {
+        "area": "Sector 32",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 180,
+      "total_retail_floor_area": "1,000,000 sq. ft.",
+      "number_of_floors": 6,
+      "description": "A contemporary mall featuring a wide range of retail stores, a multiplex, and diverse dining options.",
+      "source": "https://www.logixgroup.in/logix-city-center",
+      "image_url": "/Mall/logix.avif"
+    },
+    {
+      "mall_name": "Spice World Mall",
+      "location": {
+        "area": "Sector 25A",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 100,
+      "total_retail_floor_area": "400,000 sq. ft.",
+      "number_of_floors": 4,
+      "description": "A family-friendly mall offering retail stores, a multiplex cinema, and a variety of dining choices.",
+      "source": "https://www.spiceworld.co.in/",
+      "image_url": "/Mall/SpiceWorld.jpg"
+    },
+    {
+      "mall_name": "Wave Mall",
+      "location": {
+        "area": "Sector 18",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 150,
+      "total_retail_floor_area": "420,000 sq. ft.",
+      "number_of_floors": 5,
+      "description": "A well-known mall housing a variety of retail outlets, a multiplex cinema, and a food court.",
+      "source": "https://www.wavemalls.com/noida/",
+      "image_url": "/Mall/wave.avif"
+    },
+    {
+      "mall_name": "Shopprix Mall",
+      "location": {
+        "area": "Sector 61",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 80,
+      "total_retail_floor_area": "300,000 sq. ft.",
+      "number_of_floors": 3,
+      "description": "A neighborhood mall offering a selection of retail stores, a supermarket, and casual dining options.",
+      "source": "https://www.shopprixmalls.com/",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimFh3fK67lXQJhiHW-2wdjvZ4zWcdeA1boNCm63jGqPBPEY8C2OS7RjyoymtWAgbMfWJuxJeH3_ZSqU2sGUvq2x_zNu8x36a1JypbiHUTb1US2n0f2AEyrvC25HEqNlaBFLANpwlDf54JK/s1600/shopprix-mall-vaishali-photo.JPG"
+    },
+    {
+      "mall_name": "Center Stage Mall",
+      "location": {
+        "area": "Sector 18",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 90,
+      "total_retail_floor_area": "350,000 sq. ft.",
+      "number_of_floors": 4,
+      "description": "A centrally located mall featuring retail outlets, a multiplex cinema, and a variety of eateries.",
+      "source": "https://www.centrestagemall.in/",
+      "image_url": "https://malls.thewavegroup.com/images/gallery/Noida/Edit/wavemallnoida14.jpg"
+    },
+    {
+      "mall_name": "Ansal Plaza",
+      "location": {
+        "area": "Sector 1",
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 100,
+      "total_retail_floor_area": "500,000 sq. ft.",
+      "number_of_floors": 5,
+      "description": "A prominent mall offering a mix of retail stores, entertainment options, and dining facilities.",
+      "source": "https://www.ansalplazamall.com/",
+      "image_url": "https://files.propertywala.com/photos/61/J290718411.aerial-view.74081l.jpg"
+    },
+    {
+      "mall_name": "Omaxe Connaught Place Mall",
+      "location": {
+        "area": "Beta II",
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 150,
+      "total_retail_floor_area": "1,000,000 sq. ft.",
+      "number_of_floors": 6,
+      "description": "A modern mall featuring a variety of retail outlets, entertainment zones, and a food court.",
+      "source": "https://www.omaxe.com/omaxe-connaught-place",
+      "image_url": "https://www.omaxe.com/projectgallery/gallery_1671098836196.jpg"
+    },
+    {
+      "mall_name": "The Grand Venice Mall",
+      "location": {
+        "area": "Pari Chowk",
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 200,
+      "total_retail_floor_area": "900,000 sq. ft.",
+      "number_of_floors": 4,
+      "description": "An Italian-themed mall offering a unique shopping experience with gondola rides, diverse retail stores, and dining options.",
+      "source": "https://www.thegrandvenice.com/",
+      "image_url": "https://yometro.com/images/places/the-grand-venice-mall.jpg"
+    },
+    {
+      "mall_name": "Galaxy Blue Sapphire Plaza",
+      "location": {
+        "area": "Sector 4",
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh"
+      },
+      "number_of_stores": 120,
+      "total_retail_floor_area": "600,000 sq. ft.",
+      "number_of_floors": 5,
+      "description": "A modern mall offering a variety of retail stores, entertainment zones, and a food court.",
+      "source": "https://www.galaxybluesapphireplaza.com/",
+      "image_url": "https://r1imghtlak.ibcdn.com/7a14042b-32f2-4f86-a9b8-8908cd7729fc.jpg"
+    }
+]
+   
+  

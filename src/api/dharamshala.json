@@ -1,0 +1,115 @@
+[
+    {
+      "name": "Shree Tilakdwar Aggarwal Dharmshala",
+      "location": {
+        "area": "Holi Gate",
+        "city": "Mathura",
+        "state": "Uttar Pradesh"
+      },
+      "amenities": ["AC and Non-AC rooms", "Meals", "Hot water", "Clean drinking water", "Flexible check-in/check-out"],
+      "contact_info": {
+        "phone": "+91-120-123-4568",
+        "website": "https://yatradham.org/aggarwal-dharamshala-mathura.html",
+        "image": "https://r1imghtlak.mmtcdn.com/dd50c7ac712611e794e70a9df65c8753.jfif"
+      }
+    },
+    {
+      "name": "Pushti Bhavan Dharamshala",
+      "location": {
+        "area": "Near Vishram Ghat",
+        "city": "Mathura",
+        "state": "Uttar Pradesh"
+      },
+      "amenities": ["Clean and well-maintained rooms", "Meals", "CCTV cameras", "Hot water", "Clean drinking water", "Flexible check-in/check-out"],
+      "contact_info": {
+        "phone": "+91-120-123-4569",
+        "website": "https://yatradham.org/mathura-pushti-bhavan-dharamshala.html",
+        "image": "https://yatradham.org/media/catalog/product/r/e/resize_1__3_12.jpg"
+      }
+    },
+    {
+      "name": "Hariram Jalaram Dharamshala",
+      "location": {
+        "area": "Choubey Para",
+        "city": "Mathura",
+        "state": "Uttar Pradesh"
+      },
+      "amenities": ["Basic accommodations", "Proximity to major temples"],
+      "contact_info": {
+        "phone": "+91-9319501323",
+        "website": "https://mathura.idbf.in/dharamshala",
+        "image": "https://content.jdmagicbox.com/comp/def_content_category/dharamshalas/6-dharamshalas-10-1ys7t.jpg"
+      }
+    },
+    {
+      "name": "Mathura Chourasi Digambar Jain Mandir",
+      "location": {
+        "area": "NH 2 Bhuteshwar Road",
+        "city": "Mathura",
+        "state": "Uttar Pradesh"
+      },
+      "amenities": ["Food facility with fresh vegetarian food", "Only Jain devotees allowed"],
+      "contact_info": {
+        "phone": "+91-120-123-4570",
+        "website": "https://nomadsaikat.com/dharamshala-in-mathura/",
+        "image": "https://content.jdmagicbox.com/comp/mathura/m5/9999px565.x565.180303191155.w2m5/catalogue/mathura-chaurasi-digamber-jain-mandir-krishna-nagar-mathura-temples-lccosm2lze.jpg"
+      }
+    },
+    {
+      "name": "Kadiya Dharamshala",
+      "location": {
+        "area": "Near Mathura Train Station",
+        "city": "Mathura",
+        "state": "Uttar Pradesh"
+      },
+      "amenities": ["Free Wi-Fi", "Air-conditioned rooms", "Terrace", "Balcony", "Private parking (extra charge)"],
+      "contact_info": {
+        "phone": "+91-120-123-4571",
+        "website": "https://www.booking.com/hotel/in/kadiya-dharamshala-mathura.html",
+        "image": "https://yatradham.org/media/catalog/product/cache/1/small_image/420x400/040ec09b1e35df139433887a97daa66f/9/2/925830111s_2_.jpg"
+      }
+    },
+    {
+      "name": "Jammu Hari Bhavan Raghunath Mandir Dharamshala",
+      "location": {
+        "area": "Near Raghunath Mandir",
+        "city": "Jammu",
+        "state": "Jammu and Kashmir"
+      },
+      "amenities": ["Affordable accommodations", "Proximity to Raghunath Mandir"],
+      "contact_info": {
+        "phone": "+91-120-123-4572",
+        "website": "https://yatradham.org/yatradham-destinations/jammu-kashmir/jammu.html",
+        "image": "https://yatradham.org/media/catalog/product/w/h/whatsapp_image_2023-12-07_at_1.14.08_pm_1.jpg"
+      }
+    },
+    {
+      "name": "Jammu Bharat Sevashram Sangha",
+      "location": {
+        "area": "Central Jammu",
+        "city": "Jammu",
+        "state": "Jammu and Kashmir"
+      },
+      "amenities": ["Basic accommodations", "Proximity to city center"],
+      "contact_info": {
+        "phone": "+91-120-123-4573",
+        "website": "https://yatradham.org/yatradham-destinations/jammu-kashmir/jammu.html",
+        "image": "https://yatradham.org/media/catalog/product/j/a/jammu_bharat_sevaashram_sangha_14_.jpg"
+      }
+    },
+    {
+      "name": "Jammu Guru Nanak Devji Gurudwara Dharamshala",
+      "location": {
+        "area": "Near Railway Station",
+        "city": "Jammu",
+        "state": "Jammu and Kashmir"
+      },
+      "amenities": ["Affordable accommodations", "Proximity to railway station"],
+      "contact_info": {
+        "phone": "+91-120-123-4574",
+        "website": "https://yatradham.org/yatradham-destinations/jammu-kashmir/jammu.html",
+        "image": "https://www.worldgurudwaras.com/wp-content/uploads/2011/11/gnd-jammu-2.jpg"
+      }
+    }
+  ]
+  
